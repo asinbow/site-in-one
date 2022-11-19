@@ -35,14 +35,14 @@
     "clean-webpack-plugin": "^3.0.0",
     "copy-webpack-plugin": "^5.0.5",
     "cross-env": "^6.0.3",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "jest": "^24.9.0",
     "react-test-renderer": "^16.12.0",
     "ts-jest": "^24.1.0",
     "tslint": "^5.20.1",
     "typescript": "^3.7.2",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-extension-reloader": "^1.1.4"
   },
   "repository": {
